@@ -1,0 +1,9 @@
+{
+    "path" : "~/myapp",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
